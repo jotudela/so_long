@@ -36,6 +36,10 @@ Example :
  ```bash
   ./so_long maps/map.ber
  ```
+-
+ ```bash
+  ./so_long maps/map2.ber
+ ```
 
 
 My final grade :
