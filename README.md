@@ -6,7 +6,7 @@ The `so_long` project at 42 school challenges students to create a mini game in 
 
 Game's goal is very simple, you have a avatar that needs to recover items and exit with a portal to finish the game.
 
-Leveraging the [MiniLibX](https://github.com/42Paris/minilibx-linux) library, this project seamlessly integrates graphics capabilities, providing students with a versatile toolset for creating visually stunning fractal representations.
+Leveraging the [MiniLibX](https://github.com/42Paris/minilibx-linux) library, this project seamlessly integrates graphics capabilities, providing students with a versatile toolset for creating visually 2D representation world.
 
 MLX is a lightweight library designed for simple 2D graphics rendering, offering functions for creating windows, drawing pixels, and handling events like keyboard and mouse input.
 
