@@ -33,7 +33,7 @@ So_long need to be executed with one argument.
 
 Example :
 -
-  ```bash
+```bash
   ./so_long maps/map.ber
 ```
 
