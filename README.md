@@ -12,7 +12,7 @@ MLX is a lightweight library designed for simple 2D graphics rendering, offering
 
 ![](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
 
-# 🛠️  PROGRAM SPECIFICITIES AND CONSIDERATIONS
+# 🛠️  Program Specificities and Considerations
 
 > [!WARNING]
 > This project aims to be executed in a x86 Linux environment, with a QWERTY keyboard.
@@ -31,7 +31,7 @@ make
 
 So_long need to be executed with one argument.
 
-Example :
+Examples :
 ```bash
 ./so_long maps/map.ber
 ```
@@ -42,6 +42,24 @@ Example :
 ./so_long maps/map3.ber
 ```
 
+## 🎮 Controls
+
+Keyboard
+- ```W``` key: go up
+- ```S``` key: go down
+- ```A``` key: go left
+- ```D``` key: go right
+- ```ESC``` key: quit the game
+
+Mouse
+- Right click on corss: quit the game
+
+## 🖼️ Illustrations
+<p align="center">
+  <img src="imgs/first_world.png" alt="2D">
+  <img src="imgs/second_world.png" alt="2D">
+  <img src="imgs/third_world.png" alt="2D">
+</p>
 
 My final grade :
 
