@@ -32,14 +32,15 @@ make
 So_long need to be executed with one argument.
 
 Example :
--
- ```bash
-  ./so_long maps/map.ber
- ```
--
- ```bash
-  ./so_long maps/map2.ber
- ```
+```bash
+./so_long maps/map.ber
+```
+```bash
+./so_long maps/map2.ber
+```
+```bash
+./so_long maps/map3.ber
+```
 
 
 My final grade :
