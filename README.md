@@ -52,7 +52,7 @@ Keyboard
 - ```ESC``` key: quit the game
 
 Mouse
-- Right click on corss: quit the game
+- Left click on corss: quit the game
 
 ## 🖼️ Illustrations
 <p align="center">
